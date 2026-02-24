@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Smart Assistant</string>
+    <string name="accessibility_service_description">Allows voice commands to trigger global device actions.</string>
+</resources>
